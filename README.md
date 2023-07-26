@@ -4,7 +4,7 @@
 
 ### Google Data Analytics Capstone - Case Study: Bike Share
 
-(./assets/img/project1.png)
+[![](./assets/img/project1.png)]
 
 ### Programming Languages and Tools
 
