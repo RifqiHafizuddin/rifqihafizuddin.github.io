@@ -10,6 +10,12 @@ Results-driven Statistics undergraduate with a strong passion for data analysis 
 
 Designed a new marketing strategy to convert casual riders into annual members using R. This data-driven approach that's backed up with compelling data insights and professional data visualizations led to better understanding of how casual riders and annual members use Cyclistic bikes differently. The case-study can be accessed [here](https://github.com/RifqiHafizuddin/Google-Data-Analytics-Capstone-Bike-Share/)
 
+### Data Mining Project - Text Analysis
+
+![project2](./assets/img/project2.png)
+
+can be accessed [here](https://github.com/RifqiHafizuddin/DataMiningProject/blob/main/Kasus_Klasifikasi_Kelompok_1.ipynb)
+
 ### Programming Languages and Tools
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
