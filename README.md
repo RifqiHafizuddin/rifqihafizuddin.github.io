@@ -14,7 +14,7 @@ Designed a new marketing strategy to convert casual riders into annual members u
 
 ![project2](./assets/img/project2.png)
 
-can be accessed [here](https://github.com/RifqiHafizuddin/DataMiningProject/blob/main/Kasus_Klasifikasi_Kelompok_1.ipynb)
+can be accessed [here](https://github.com/RifqiHafizuddin/DataMiningProject/blob/main/Kasus_Klasifikasi_Kelompok_1.ipynb, width = 100)
 
 ### Programming Languages and Tools
 
