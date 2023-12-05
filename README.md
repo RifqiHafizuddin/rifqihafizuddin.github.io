@@ -12,9 +12,9 @@ Designed a new marketing strategy to convert casual riders into annual members u
 
 ### Data Mining Project - Text Analysis
 
-![project2](./assets/img/project2.png)
+[<img alt="project2" width="100px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/project2.png" />][webdev]
 
-can be accessed [here](https://github.com/RifqiHafizuddin/DataMiningProject/blob/main/Kasus_Klasifikasi_Kelompok_1.ipynb, width = 100)
+can be accessed [here](https://github.com/RifqiHafizuddin/DataMiningProject/blob/main/Kasus_Klasifikasi_Kelompok_1.ipynb)
 
 ### Programming Languages and Tools
 
