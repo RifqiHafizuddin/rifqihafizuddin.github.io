@@ -16,6 +16,11 @@ Designed a new marketing strategy to convert casual riders into annual members u
 
 Analyzed hoax data from [mafindo](https://www.mafindo.or.id/) by determining the best model, apply data analysis, and visualize the text data. The project can be accessed [here](https://github.com/RifqiHafizuddin/DataMiningProject/blob/main/Kasus_Klasifikasi_Kelompok_1.ipynb)
 
+### Data Mining Project - Property Analysis
+[<img alt="project2" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/project3.png" />][webdev]
+
+Analyzed property data from [here](https://docs.google.com/spreadsheets/d/1bX2XqiOGFEszgmqMc5Ym2meC0qeNQEeQ/edit#gid=864316460). The project can be accessed [here](https://github.com/RifqiHafizuddin/Data-Mining-Property-Analysis/blob/main/Kelompok_1_Data_Mining.ipynb)
+
 ### Programming Languages and Tools
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
