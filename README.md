@@ -19,7 +19,7 @@ Analyzed hoax data from [mafindo](https://www.mafindo.or.id/) by determining the
 ### Data Mining Project - Property Analysis
 [<img alt="project3" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/attachment_68661588.png" />][webdev]
 
-Analyzed property data from [here](https://docs.google.com/spreadsheets/d/1bX2XqiOGFEszgmqMc5Ym2meC0qeNQEeQ/edit#gid=864316460). The project can be accessed [here](https://github.com/RifqiHafizuddin/Data-Mining-Property-Analysis/blob/main/Kelompok_1_Data_Mining.ipynb)
+Analyzed property data from [here](https://docs.google.com/spreadsheets/d/1WKZYNtMpmWqJfxBJmPHCdUHjs720nFlI/edit?usp=sharing&ouid=112608959787549775052&rtpof=true&sd=true). The project can be accessed [here](https://github.com/RifqiHafizuddin/Data-Mining-Property-Analysis/blob/main/Kelompok_1_Data_Mining.ipynb)
 
 ### Programming Languages and Tools
 
