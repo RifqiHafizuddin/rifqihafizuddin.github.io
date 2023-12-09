@@ -18,9 +18,9 @@ Capstone project from my [Google Advanced Data Analytics course](https://www.cou
 
 ### Database for Data Science - Food Delivery Data System
 
-[<img alt="project5" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/project5.png" />][webdev]
+[<img alt="project5" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/project5.jpg" />][webdev]
 
-Project form my Database for Data Science class. Created a database system for a food delivery company and ER diagrams to explain the relation between each entities. The project can be accessed [here](https://github.com/RifqiHafizuddin/Food-Delivery-Database-System)
+Project form my Database for Data Science class. Created a database system for a food delivery company using SQL and ER diagrams to explain the relation between each entities. The project can be accessed [here](https://github.com/RifqiHafizuddin/Food-Delivery-Database-System)
 
 ### Data Mining Project - Text Analysis
 
