@@ -8,18 +8,24 @@ Results-driven Statistics undergraduate with a strong passion for data analysis 
 
 ![project1](./assets/img/project1.png)
 
-Designed a new marketing strategy to convert casual riders into annual members using R. This data-driven approach that's backed up with compelling data insights and professional data visualizations led to better understanding of how casual riders and annual members use Cyclistic bikes differently. The case-study can be accessed [here](https://github.com/RifqiHafizuddin/Google-Data-Analytics-Capstone-Bike-Share/)
+Capstone project from my [Google Data Analytics course](https://www.coursera.org/professional-certificates/google-data-analytics). Designed a new marketing strategy to convert casual riders into annual members using R. This data-driven approach that's backed up with compelling data insights and professional data visualizations led to better understanding of how casual riders and annual members use Cyclistic bikes differently. The case-study can be accessed [here](https://github.com/RifqiHafizuddin/Google-Data-Analytics-Capstone-Bike-Share/)
+
+# Google Advanced Data Analytics Capstone: Salifort Motors
+
+[<img alt="project2" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/project4.png" />][webdev]
+
+Capstone project from my [Google Advanced Data Analytics course](https://www.coursera.org/professional-certificates/google-advanced-data-analytics). I analyzed the dataset gathered from employees and develop a predictive model to identify individuals likely to leave the company, applied EDA and Machine learning to find the best model which can predict employees who are likely to quit. The project can be accessed [here](https://github.com/RifqiHafizuddin/Capstone-Project-Salifort-Motors/blob/main/Capstone%20Project_Salifort%20Motors.ipynb)
 
 ### Data Mining Project - Text Analysis
 
 [<img alt="project2" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/project2.png" />][webdev]
 
-Analyzed hoax data from [mafindo](https://www.mafindo.or.id/) by determining the best model, apply data analysis, and visualize the text data. The project can be accessed [here](https://github.com/RifqiHafizuddin/DataMiningProject/blob/main/Kasus_Klasifikasi_Kelompok_1.ipynb)
+Project form my Data Mining & Business Intelligence class. Analyzed hoax data from [mafindo](https://www.mafindo.or.id/) by determining the best model, applying data analysis, and visualizing the text data. The project can be accessed [here](https://github.com/RifqiHafizuddin/DataMiningProject/blob/main/Kasus_Klasifikasi_Kelompok_1.ipynb)
 
 ### Data Mining Project - Property Analysis
 [<img alt="project3" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/attachment_68661588.png" />][webdev]
 
-Analyzed property data from [here](https://docs.google.com/spreadsheets/d/1WKZYNtMpmWqJfxBJmPHCdUHjs720nFlI/edit?usp=sharing&ouid=112608959787549775052&rtpof=true&sd=true). The project can be accessed [here](https://github.com/RifqiHafizuddin/Data-Mining-Property-Analysis/blob/main/Kelompok_1_Data_Mining.ipynb)
+Project form my Data Mining & Business Intelligence class. Analyzed property data from [here](https://docs.google.com/spreadsheets/d/1WKZYNtMpmWqJfxBJmPHCdUHjs720nFlI/edit?usp=sharing&ouid=112608959787549775052&rtpof=true&sd=true). The project can be accessed [here](https://github.com/RifqiHafizuddin/Data-Mining-Property-Analysis/blob/main/Kelompok_1_Data_Mining.ipynb)
 
 ### Programming Languages and Tools
 
