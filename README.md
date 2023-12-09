@@ -16,6 +16,12 @@ Capstone project from my [Google Data Analytics course](https://www.coursera.org
 
 Capstone project from my [Google Advanced Data Analytics course](https://www.coursera.org/professional-certificates/google-advanced-data-analytics). I analyzed the dataset gathered from employees and develop a predictive model to identify individuals likely to leave the company, applied EDA and Machine learning to find the best model which can predict employees who are likely to quit. The project can be accessed [here](https://github.com/RifqiHafizuddin/Capstone-Project-Salifort-Motors/blob/main/Capstone%20Project_Salifort%20Motors.ipynb)
 
+### Database for Data Science - Food Delivery Data System
+
+[<img alt="project5" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/project5.png" />][webdev]
+
+Project form my Database for Data Science class. Created a database system for a food delivery company and ER diagrams to explain the relation between each entities. The project can be accessed [here](https://github.com/RifqiHafizuddin/Food-Delivery-Database-System)
+
 ### Data Mining Project - Text Analysis
 
 [<img alt="project2" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/project2.png" />][webdev]
@@ -26,6 +32,8 @@ Project form my Data Mining & Business Intelligence class. Analyzed hoax data fr
 [<img alt="project3" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/attachment_68661588.png" />][webdev]
 
 Project form my Data Mining & Business Intelligence class. Analyzed property data from [here](https://docs.google.com/spreadsheets/d/1WKZYNtMpmWqJfxBJmPHCdUHjs720nFlI/edit?usp=sharing&ouid=112608959787549775052&rtpof=true&sd=true). The project can be accessed [here](https://github.com/RifqiHafizuddin/Data-Mining-Property-Analysis/blob/main/Kelompok_1_Data_Mining.ipynb)
+
+
 
 ### Programming Languages and Tools
 
