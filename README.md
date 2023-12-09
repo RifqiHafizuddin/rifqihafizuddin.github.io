@@ -10,7 +10,7 @@ Results-driven Statistics undergraduate with a strong passion for data analysis 
 
 Capstone project from my [Google Data Analytics course](https://www.coursera.org/professional-certificates/google-data-analytics). Designed a new marketing strategy to convert casual riders into annual members using R. This data-driven approach that's backed up with compelling data insights and professional data visualizations led to better understanding of how casual riders and annual members use Cyclistic bikes differently. The case-study can be accessed [here](https://github.com/RifqiHafizuddin/Google-Data-Analytics-Capstone-Bike-Share/)
 
-# Google Advanced Data Analytics Capstone: Salifort Motors
+### Google Advanced Data Analytics Capstone: Salifort Motors
 
 [<img alt="project2" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/project4.png" />][webdev]
 
