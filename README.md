@@ -20,11 +20,11 @@ Capstone project from my [Google Advanced Data Analytics course](https://www.cou
 
 [<img alt="project5" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/project5.jpg" />][webdev]
 
-Project from my Database for Data Science class. Created a database system for a food delivery company using SQL and ER diagrams to explain the relation between each entities. The project can be accessed [here](https://github.com/RifqiHafizuddin/Food-Delivery-Database-System)
+Group Project from my Database for Data Science class. Created a database system for a food delivery company using SQL and ER diagrams to explain the relation between each entities. The project can be accessed [here](https://github.com/RifqiHafizuddin/Food-Delivery-Database-System)
 
 ### Metode Peramalan - ARIMA Forecasting
 
-[<img alt="project5" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/metpar.jpg" />][webdev]
+[<img alt="project5" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/metpar.png" />][webdev]
 
 Group Project from my Metode peramalan class. Analyzed time series data (TLKM stock price) using ARIMA model. The project can be accessed [here](https://github.com/RifqiHafizuddin/Arima-Forecasting-TLKM-Stock)
 
@@ -38,12 +38,12 @@ Group project from my Model Survival class. Analyzed survival data by applying C
 
 [<img alt="project2" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/project2.png" />][webdev]
 
-Project from my Data Mining & Business Intelligence class. Analyzed hoax data from [mafindo](https://www.mafindo.or.id/) by determining the best model, applying data analysis, and visualizing the text data. The project can be accessed [here](https://github.com/RifqiHafizuddin/DataMiningProject/blob/main/Kasus_Klasifikasi_Kelompok_1.ipynb)
+Group Project from my Data Mining & Business Intelligence class. Analyzed hoax data from [mafindo](https://www.mafindo.or.id/) by determining the best model, applying data analysis, and visualizing the text data. The project can be accessed [here](https://github.com/RifqiHafizuddin/DataMiningProject/blob/main/Kasus_Klasifikasi_Kelompok_1.ipynb)
 
 ### Data Mining Project - Property Analysis
 [<img alt="project3" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/attachment_68661588.png" />][webdev]
 
-Project from my Data Mining & Business Intelligence class. Analyzed property data from [here](https://docs.google.com/spreadsheets/d/1WKZYNtMpmWqJfxBJmPHCdUHjs720nFlI/edit?usp=sharing&ouid=112608959787549775052&rtpof=true&sd=true). The project can be accessed [here](https://github.com/RifqiHafizuddin/Data-Mining-Property-Analysis/blob/main/Kelompok_1_Data_Mining.ipynb)
+Group Project from my Data Mining & Business Intelligence class. Analyzed property data from [here](https://docs.google.com/spreadsheets/d/1WKZYNtMpmWqJfxBJmPHCdUHjs720nFlI/edit?usp=sharing&ouid=112608959787549775052&rtpof=true&sd=true). The project can be accessed [here](https://github.com/RifqiHafizuddin/Data-Mining-Property-Analysis/blob/main/Kelompok_1_Data_Mining.ipynb)
 
 
 
