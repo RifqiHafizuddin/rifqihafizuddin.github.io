@@ -2,7 +2,7 @@
 
 Results-driven Statistics undergraduate with a strong passion for data analysis and a solid foundation in mathematical principles. Proficient in using statistical software packages like R and Python to manipulate and visualize data. Skilled in hypothesis testing, regression analysis, and experimental design. Seeking opportunities to apply my analytical skills in a dynamic and data-centric environment to contribute to evidence-based decision-making and problem-solving. Eager to leverage my knowledge and enthusiasm for statistics to excel in a career that combines data science and real-world applications.
 
-## Projects
+# Projects
 
 ### Google Data Analytics Capstone - Case Study: Bike Share
 
@@ -28,6 +28,7 @@ Group Project from my Database for Data Science class. Created a database system
 
 Group Project from my Metode peramalan class. Analyzed time series data (TLKM stock price) using ARIMA model. The project can be accessed [here](https://github.com/RifqiHafizuddin/Arima-Forecasting-TLKM-Stock)
 
+
 ### Model Survival - Cox PH Model
 
 [<img alt="project5" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/modsur.jpg" />][webdev]
@@ -40,14 +41,26 @@ Group project from my Model Survival class. Analyzed survival data by applying C
 
 Group Project from my Data Mining & Business Intelligence class. Analyzed hoax data from [mafindo](https://www.mafindo.or.id/) by determining the best model, applying data analysis, and visualizing the text data. The project can be accessed [here](https://github.com/RifqiHafizuddin/DataMiningProject/blob/main/Kasus_Klasifikasi_Kelompok_1.ipynb)
 
+### Data Mining - UAS Project
+[<img alt="project3" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/UASDM.png" />][webdev]
+
+Final Group Project for my Data Mining & Business Intelligence class. Preprocessed the given data and derived insights from the data using what we have learned from this class. The project can be accessed [here](https://github.com/RifqiHafizuddin/Data-Mining-Project-UAS/blob/main/UAS_Datmin.ipynb)
+
+
 ### Data Mining Project - Property Analysis
 [<img alt="project3" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/attachment_68661588.png" />][webdev]
 
 Group Project from my Data Mining & Business Intelligence class. Analyzed property data from [here](https://docs.google.com/spreadsheets/d/1WKZYNtMpmWqJfxBJmPHCdUHjs720nFlI/edit?usp=sharing&ouid=112608959787549775052&rtpof=true&sd=true). The project can be accessed [here](https://github.com/RifqiHafizuddin/Data-Mining-Property-Analysis/blob/main/Kelompok_1_Data_Mining.ipynb)
 
+# Certificates
 
+### Google Data Analytics
+[<img alt="project2" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/Google Data Analytics.png" />][webdev]
 
-### Programming Languages and Tools
+### Google Advanced Data Analytics
+[<img alt="project2" width="200px" src="https://raw.githubusercontent.com/RifqiHafizuddin/rifqihafizuddin.github.io/main/assets/img/Google Advanced Data Analytics.png" />][webdev]
+
+## Programming Languages and Tools
 
 [<img align="left" alt="MySQL" width="30px" src="https://png2.cleanpng.com/sh/14fddd022eadb7541770a1813e8b37af/L0KzQYm3U8MxN5NqiZH0aYP2gLBuTf1qa6N0i9HvdD3kisb5hb10eZ0yfNN9YXLkg7a0jflkepD4h9h9LYP0fH76hgJ3baMyfNN9YXLkg7a0VfFjbZJqe9cEZHa5SYq1UscyOWE3Uag6NUK1RIW9UMMxPmU8RuJ3Zx==/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece9df699.271102961522446030647.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
