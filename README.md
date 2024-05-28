@@ -1,6 +1,6 @@
 # About Me
 
-Results-driven Statistics undergraduate with a strong passion for data analysis and a solid foundation in mathematical principles. Proficient in using statistical software packages like R and Python to manipulate and visualize data. Skilled in hypothesis testing, regression analysis, and experimental design. Seeking opportunities to apply my analytical skills in a dynamic and data-centric environment to contribute to evidence-based decision-making and problem-solving. Eager to leverage my knowledge and enthusiasm for statistics to excel in a career that combines data science and real-world applications.
+A dedicated Statistics Student of Universitas Indonesia with a strong foundation in data analytics gained through coursework and hands-on projects. Proficient in utilizing tools such as Excel, Python, R, and SQL, with hands-on experience in applying machine learning such as NLP, CNN, and regression analysis. Eager to contribute analytical skills to a dynamic team and continuously expand my knowledge and skills in data analytics. 
 
 # Projects
 
