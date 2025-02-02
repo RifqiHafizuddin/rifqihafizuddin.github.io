@@ -228,3 +228,97 @@ footer {
         display: none;
     }
 }
+
+
+/* Add this to your CSS */
+.experience-details li strong {
+    color: #007bff;
+    font-weight: 600;
+}
+
+/* Achievements Section */
+.achievements {
+    padding: 4rem 0;
+    background: #fff;
+}
+
+.achievements-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.achievement-card {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.achievement-card:hover {
+    transform: translateY(-5px);
+}
+
+.achievement-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.achievement-details {
+    padding: 1.5rem;
+}
+
+.achievement-details h3 {
+    color: #007bff;
+    margin-bottom: 0.5rem;
+}
+
+.achievement-details p {
+    font-weight: 600;
+    margin-bottom: 0.8rem;
+}
+
+.achievement-details span {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+/* Certificates Section */
+.certificates {
+    padding: 4rem 0;
+    background: #f8f9fa;
+}
+
+.certificates-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.certificate-item {
+    text-align: center;
+    background: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.certificate-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+    .achievement-card {
+        margin-bottom: 1.5rem;
+    }
+    
+    .certificate-item img {
+        height: 180px;
+    }
+}
